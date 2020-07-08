@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
-
+title: Phan Huỳnh Phúc Thịnh
 # Username (this should match the folder name)
 authors:
 - admin
@@ -10,32 +9,25 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Software Developer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Đại học Cần Thơ
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Sở thích nghiên cứu các giao diện UX/UI và các vấn đề về lập trình
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Tìm hiểu UX/UI.
+- Học hỏi kiến thức mới.
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Kỹ sư Công nghệ thông tin
+    institution: Đại học Cần Thơ
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +36,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:phpthinh96@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/phpthinh96
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +47,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "phpthinh96@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +56,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Là một sinh viên chuyên ngành Tin học ứng dụng, ngành Công nghệ thông tin, đại học Cần Thơ. Có hơn 1 năm kinh nghiệm thực hành các dự án học đường về web e-commerce C2C.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tôi là người thuộc tuýp thích giải quyết vấn đề và ham học hỏi cái mới, có đam mê lập trình muốn tham gia vào một tổ chức có cùng chí hướng. Đang tìm kiếm một vị trí phù hợp tại môi trường năng động có nhiều thử thách cao. CV hoàn chỉnh {{% staticref "files/cv.pdf" %}}ở đây.{{% /staticref %}}
