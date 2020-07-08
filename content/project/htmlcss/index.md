@@ -41,7 +41,7 @@ slides: ""
 
 resources:
 - name: image
-  src: image-1.jpg
+  src: image-1.png
 title: Application
 ---
 
@@ -49,4 +49,4 @@ Xây dựng website đơn giản sử dụng html5 và css3 để cắt giao di�
   - Sử dụng kiến thức căn bản HTML
   - Sử dụng kiến thức Css cơ bản & một số kiến thức về BEM, Flexbox, Gird,...
 
-{{ $image := .Resource.Match "image"  }}
+{{ .Resource.Match "image"  }}
