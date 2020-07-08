@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Htmlcss"
-summary: ""
+summary: "Xây dựng website responsive với Html5&Css3"
 authors: []
 tags: []
 categories: []
@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: "display desktop"
   focal_point: "smart"
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
