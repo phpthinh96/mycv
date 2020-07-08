@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Htmlcss"
+title: "HTML CSS Website Project"
 summary: "Xây dựng website responsive với Html5&Css3"
 authors: []
 tags: []
@@ -39,3 +39,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Xây dựng website đơn giản sử dụng html5 và css3 để cắt giao diện
+  - Sử dụng kiến thức căn bản HTML
+  - Sử dụng kiến thức Css cơ bản & nâng cao như BEM, Flexbox, Gird,...
+
+{{ with .Resources.ByType "image" }}
+{{ range . }}
+{{ .RelPermalink }}
+{{ end }}
+{{ end }}
