@@ -38,14 +38,15 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+resources:
+- name: image
+  src: image-1.jpg
+title: Application
 ---
 
 Xây dựng website đơn giản sử dụng html5 và css3 để cắt giao diện
   - Sử dụng kiến thức căn bản HTML
-  - Sử dụng kiến thức Css cơ bản & nâng cao như BEM, Flexbox, Gird,...
+  - Sử dụng kiến thức Css cơ bản & một số kiến thức về BEM, Flexbox, Gird,...
 
-{{ with .Resources.ByType "image" }}
-{{ range . }}
-{{ .RelPermalink }}
-{{ end }}
-{{ end }}
+{{ $image := .Resource.Match "image"  }}
