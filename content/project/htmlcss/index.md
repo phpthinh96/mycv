@@ -44,4 +44,8 @@ Xây dựng website đơn giản sử dụng html5 và css3 để cắt giao di�
   - Sử dụng kiến thức căn bản HTML
   - Sử dụng kiến thức Css cơ bản & nâng cao như BEM, Flexbox, Gird,...
 
-{{ .Resources.Match "images/*" }}
+{{ with .Resources.ByType "image" }}
+{{ range . }}
+{{ .RelPermalink }}
+{{ end }}
+{{ end }}
