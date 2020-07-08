@@ -26,6 +26,6 @@ date_format = "Jan 2006"
   description = "Sinh viên thực tập ngành lập trình tại phòng kỹ thuật, đài truyền hình Việt Nam"
   Responsibilities include:
   
-  * Developer
+  * 
   """
 +++
