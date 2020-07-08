@@ -15,22 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "laravel"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Laravel"
+  description = "50%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "laravel"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "HTML & CSS"
+  description = "70%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "vuejs"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Vue"
+  description = "40%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
