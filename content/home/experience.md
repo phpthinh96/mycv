@@ -22,7 +22,8 @@ date_format = "Jan 2006"
   company = "VTV Cần Thơ"
   company_url = ""
   location = "Cần Thơ"
-  date_start = "5-2018"
+  date_start = "2018-08"
+  date_end = ""
   description = """Sinh viên thực tập ngành lập trình tại phòng kỹ thuật, đài truyền hình Việt Nam."""
 
 +++
